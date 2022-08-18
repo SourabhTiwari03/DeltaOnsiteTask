@@ -1,0 +1,61 @@
+h1 {
+  text-align: center;
+  text-decoration: solid;
+  background-color: purple;
+}
+#addition {
+  background-color: #af4c5c;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+#subtraction {
+  background-color: magenta;
+  text-align: center;
+  font-size: 16px;
+  display: inline-block;
+  padding: 15px 32px;
+  margin: auto;
+}
+#clear {
+  background-color: #684caf;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+footer {
+  text-align: center;
+}
+.cone {
+  align-items: centre;
+  width: 0px;
+  height: 0px;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 200px solid rgb(122, 13, 13);
+}
+.square {
+  height: 50px;
+  width: 200px;
+  background-color: #b4f510;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+}
+#warning {
+  text-align: centre;
+  background-color: red;
+}
